@@ -97,7 +97,7 @@ return (
             setEmail(email)
         }}>
           
-          <div>
+          <div class='goldfont slightpadding'>
             <input 
             type="radio"
             name="userType"
